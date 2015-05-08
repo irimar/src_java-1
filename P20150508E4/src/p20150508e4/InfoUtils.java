@@ -1,7 +1,8 @@
-/*
+﻿/*
  * 
  */
 package p20150508e4;
+//Comentario añadido por Irina Markova
 
 /**
  * Utilidades relacionadas con la informática.
